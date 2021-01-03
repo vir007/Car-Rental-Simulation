@@ -5,6 +5,7 @@ import cern.jet.random.engine.RandomSeedGenerator;
 import outputAnalysis.ConfidenceInterval;
 
 /**
+ * 
  * This class is for the experimentation with the number and capacity of vans
  * 
  */
